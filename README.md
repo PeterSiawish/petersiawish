@@ -23,12 +23,12 @@ I am a Software Engineer focused on backend development, Artificial Intelligence
 
 ### 🌟 Featured Projects
 
-#### 🤖 [PortiBot](https://github.com/yourusername/portibot)
+#### 🤖 [PortiBot](https://github.com/PeterSiawish/portibot)
 An intelligent full-stack web application built with **Flask, SQLite, and JavaScript** that automates structured skill extraction and generates dynamic portfolios for graduates.
 * **Privacy-First:** Engineered an asynchronous pipeline using Microsoft Presidio to scrub PII from uploaded documents.
 * **AI-Driven:** Implemented semantic similarity evaluation via Sentence Transformers and integrated the Gemini API to deliver tailored employability feedback.
 
-#### ⚡ [Grid Heartbeat Monitor](https://github.com/yourusername/grid-heartbeat) — *Hackathon 1st Place Winner* 🏆
+#### ⚡ [Grid Heartbeat Monitor](https://github.com/PeterSiawish/grid-heartbeat-monitor) — *Hackathon 1st Place Winner* 🏆
 A medical-metaphor health dashboard built using **Flask and the NeRDA API** to track critical 33kV substation voltage limits.
 * Features a dynamic historical visualization modal charting 8-hour voltage trends against active nominal, sag, and spike thresholds.
 
@@ -44,6 +44,6 @@ A medical-metaphor health dashboard built using **Flask and the NeRDA API** to t
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/peter-siawish-b1587635b/) 
-* **Portfolio:** [yourportfolio.com](https://petersiawish.github.io/) 
+* **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/peter-siawish-b1587635b/) 
+* **Portfolio:** [My Portfolio Wesbite](https://petersiawish.github.io/) 
 * **Email:** petersrood@gmail.com
